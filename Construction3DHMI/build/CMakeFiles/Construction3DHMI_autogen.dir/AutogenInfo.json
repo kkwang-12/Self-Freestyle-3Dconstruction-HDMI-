@@ -320,6 +320,12 @@
 			null
 		],
 		[
+			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/CircularGauge.h",
+			"Mu",
+			"UVLADIE3JM/moc_CircularGauge.cpp",
+			null
+		],
+		[
 			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/GridRenderer.h",
 			"Mu",
 			"UVLADIE3JM/moc_GridRenderer.cpp",
@@ -359,6 +365,18 @@
 			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/OrbitCamera.h",
 			"Mu",
 			"UVLADIE3JM/moc_OrbitCamera.cpp",
+			null
+		],
+		[
+			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleSimulator.h",
+			"Mu",
+			"UVLADIE3JM/moc_VehicleSimulator.cpp",
+			null
+		],
+		[
+			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleState.h",
+			"Mu",
+			"UVLADIE3JM/moc_VehicleState.cpp",
 			null
 		]
 	],
@@ -451,6 +469,11 @@
 			null
 		],
 		[
+			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/CircularGauge.cpp",
+			"Mu",
+			null
+		],
+		[
 			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/GridRenderer.cpp",
 			"Mu",
 			null
@@ -482,6 +505,16 @@
 		],
 		[
 			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/OrbitCamera.cpp",
+			"Mu",
+			null
+		],
+		[
+			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleSimulator.cpp",
+			"Mu",
+			null
+		],
+		[
+			"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleState.cpp",
 			"Mu",
 			null
 		],

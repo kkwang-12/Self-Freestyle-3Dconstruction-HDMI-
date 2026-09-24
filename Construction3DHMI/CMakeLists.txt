@@ -43,6 +43,14 @@ add_executable(Construction3DHMI
     src/AxisRenderer.cpp
     src/AxisRenderer.h
 
+    src/VehicleState.cpp
+    src/VehicleState.h
+
+    src/VehicleSimulator.cpp
+    src/VehicleSimulator.h
+
+    src/CircularGauge.cpp
+    src/CircularGauge.h
     external/glad/src/gl.c
 )
 

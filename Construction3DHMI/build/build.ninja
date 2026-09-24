@@ -134,6 +134,33 @@ build CMakeFiles/Construction3DHMI.dir/src/AxisRenderer.cpp.obj: CXX_COMPILER__C
   OBJECT_FILE_DIR = CMakeFiles\Construction3DHMI.dir\src
   TARGET_SUPPORT_DIR = CMakeFiles\Construction3DHMI.dir
 
+build CMakeFiles/Construction3DHMI.dir/src/VehicleState.cpp.obj: CXX_COMPILER__Construction3DHMI_unscanned_ D$:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleState.cpp || cmake_object_order_depends_target_Construction3DHMI
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Construction3DHMI.dir\src\VehicleState.cpp.obj.d
+  FLAGS = -std=gnu++17
+  INCLUDES = -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/Construction3DHMI_autogen/include -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/external/glad/include -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/external/glm -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -isystem C:/msys64/ucrt64/include/qt6/QtOpenGL -isystem C:/msys64/ucrt64/include/qt6/QtOpenGLWidgets
+  OBJECT_DIR = CMakeFiles\Construction3DHMI.dir
+  OBJECT_FILE_DIR = CMakeFiles\Construction3DHMI.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\Construction3DHMI.dir
+
+build CMakeFiles/Construction3DHMI.dir/src/VehicleSimulator.cpp.obj: CXX_COMPILER__Construction3DHMI_unscanned_ D$:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleSimulator.cpp || cmake_object_order_depends_target_Construction3DHMI
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Construction3DHMI.dir\src\VehicleSimulator.cpp.obj.d
+  FLAGS = -std=gnu++17
+  INCLUDES = -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/Construction3DHMI_autogen/include -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/external/glad/include -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/external/glm -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -isystem C:/msys64/ucrt64/include/qt6/QtOpenGL -isystem C:/msys64/ucrt64/include/qt6/QtOpenGLWidgets
+  OBJECT_DIR = CMakeFiles\Construction3DHMI.dir
+  OBJECT_FILE_DIR = CMakeFiles\Construction3DHMI.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\Construction3DHMI.dir
+
+build CMakeFiles/Construction3DHMI.dir/src/CircularGauge.cpp.obj: CXX_COMPILER__Construction3DHMI_unscanned_ D$:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/CircularGauge.cpp || cmake_object_order_depends_target_Construction3DHMI
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Construction3DHMI.dir\src\CircularGauge.cpp.obj.d
+  FLAGS = -std=gnu++17
+  INCLUDES = -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/Construction3DHMI_autogen/include -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/external/glad/include -ID:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/external/glm -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -isystem C:/msys64/ucrt64/include/qt6/QtOpenGL -isystem C:/msys64/ucrt64/include/qt6/QtOpenGLWidgets
+  OBJECT_DIR = CMakeFiles\Construction3DHMI.dir
+  OBJECT_FILE_DIR = CMakeFiles\Construction3DHMI.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\Construction3DHMI.dir
+
 build CMakeFiles/Construction3DHMI.dir/external/glad/src/gl.c.obj: C_COMPILER__Construction3DHMI_unscanned_ D$:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/external/glad/src/gl.c || cmake_object_order_depends_target_Construction3DHMI
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\Construction3DHMI.dir\external\glad\src\gl.c.obj.d
@@ -150,7 +177,7 @@ build CMakeFiles/Construction3DHMI.dir/external/glad/src/gl.c.obj: C_COMPILER__C
 #############################################
 # Link the executable Construction3DHMI.exe
 
-build Construction3DHMI.exe: CXX_EXECUTABLE_LINKER__Construction3DHMI_ CMakeFiles/Construction3DHMI.dir/Construction3DHMI_autogen/mocs_compilation.cpp.obj CMakeFiles/Construction3DHMI.dir/src/main.cpp.obj CMakeFiles/Construction3DHMI.dir/src/MainWindow.cpp.obj CMakeFiles/Construction3DHMI.dir/src/OpenGLWidget.cpp.obj CMakeFiles/Construction3DHMI.dir/src/Mesh.cpp.obj CMakeFiles/Construction3DHMI.dir/src/Model.cpp.obj CMakeFiles/Construction3DHMI.dir/src/Material.cpp.obj CMakeFiles/Construction3DHMI.dir/src/OrbitCamera.cpp.obj CMakeFiles/Construction3DHMI.dir/src/GridRenderer.cpp.obj CMakeFiles/Construction3DHMI.dir/src/AxisRenderer.cpp.obj CMakeFiles/Construction3DHMI.dir/external/glad/src/gl.c.obj | C$:/msys64/ucrt64/lib/libQt6OpenGLWidgets.dll.a C$:/msys64/ucrt64/lib/libassimp.dll.a C$:/msys64/ucrt64/lib/libQt6Widgets.dll.a C$:/msys64/ucrt64/lib/libQt6OpenGL.dll.a C$:/msys64/ucrt64/lib/libQt6Gui.dll.a C$:/msys64/ucrt64/lib/libQt6Core.dll.a C$:/msys64/ucrt64/lib/libz.dll.a C$:/msys64/ucrt64/lib/libminizip.dll.a || Construction3DHMI_autogen Construction3DHMI_autogen_timestamp_deps
+build Construction3DHMI.exe: CXX_EXECUTABLE_LINKER__Construction3DHMI_ CMakeFiles/Construction3DHMI.dir/Construction3DHMI_autogen/mocs_compilation.cpp.obj CMakeFiles/Construction3DHMI.dir/src/main.cpp.obj CMakeFiles/Construction3DHMI.dir/src/MainWindow.cpp.obj CMakeFiles/Construction3DHMI.dir/src/OpenGLWidget.cpp.obj CMakeFiles/Construction3DHMI.dir/src/Mesh.cpp.obj CMakeFiles/Construction3DHMI.dir/src/Model.cpp.obj CMakeFiles/Construction3DHMI.dir/src/Material.cpp.obj CMakeFiles/Construction3DHMI.dir/src/OrbitCamera.cpp.obj CMakeFiles/Construction3DHMI.dir/src/GridRenderer.cpp.obj CMakeFiles/Construction3DHMI.dir/src/AxisRenderer.cpp.obj CMakeFiles/Construction3DHMI.dir/src/VehicleState.cpp.obj CMakeFiles/Construction3DHMI.dir/src/VehicleSimulator.cpp.obj CMakeFiles/Construction3DHMI.dir/src/CircularGauge.cpp.obj CMakeFiles/Construction3DHMI.dir/external/glad/src/gl.c.obj | C$:/msys64/ucrt64/lib/libQt6OpenGLWidgets.dll.a C$:/msys64/ucrt64/lib/libassimp.dll.a C$:/msys64/ucrt64/lib/libQt6Widgets.dll.a C$:/msys64/ucrt64/lib/libQt6OpenGL.dll.a C$:/msys64/ucrt64/lib/libQt6Gui.dll.a C$:/msys64/ucrt64/lib/libQt6Core.dll.a C$:/msys64/ucrt64/lib/libz.dll.a C$:/msys64/ucrt64/lib/libminizip.dll.a || Construction3DHMI_autogen Construction3DHMI_autogen_timestamp_deps
   LINK_LIBRARIES = C:/msys64/ucrt64/lib/libQt6OpenGLWidgets.dll.a  C:/msys64/ucrt64/lib/libassimp.dll.a  C:/msys64/ucrt64/lib/libQt6Widgets.dll.a  C:/msys64/ucrt64/lib/libQt6OpenGL.dll.a  C:/msys64/ucrt64/lib/libQt6Gui.dll.a  C:/msys64/ucrt64/lib/libQt6Core.dll.a  -lmpr  -luserenv  -ld3d11  -ldxgi  -ldxguid  -ld3d12  C:/msys64/ucrt64/lib/libz.dll.a  C:/msys64/ucrt64/lib/libminizip.dll.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Construction3DHMI.dir
   POST_BUILD = cd .

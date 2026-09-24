@@ -261,7 +261,10 @@ Construction3DHMI_autogen/timestamp: \
 	C:/msys64/ucrt64/include/pthread_signal.h \
 	C:/msys64/ucrt64/include/pthread_time.h \
 	C:/msys64/ucrt64/include/pthread_unistd.h \
+	C:/msys64/ucrt64/include/qt6/QtCore/QObject \
 	C:/msys64/ucrt64/include/qt6/QtCore/QPoint \
+	C:/msys64/ucrt64/include/qt6/QtCore/QString \
+	C:/msys64/ucrt64/include/qt6/QtCore/QVariantAnimation \
 	C:/msys64/ucrt64/include/qt6/QtCore/q17memory.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/q20bit.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/q20functional.h \
@@ -271,6 +274,7 @@ Construction3DHMI_autogen/timestamp: \
 	C:/msys64/ucrt64/include/qt6/QtCore/q20utility.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/q23type_traits.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/q23utility.h \
+	C:/msys64/ucrt64/include/qt6/QtCore/qabstractanimation.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qalgorithms.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qalloc.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qanystringview.h \
@@ -301,6 +305,7 @@ Construction3DHMI_autogen/timestamp: \
 	C:/msys64/ucrt64/include/qt6/QtCore/qdarwinhelpers.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qdatastream.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qdebug.h \
+	C:/msys64/ucrt64/include/qt6/QtCore/qeasingcurve.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qendian.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qexceptionhandling.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qflags.h \
@@ -386,6 +391,7 @@ Construction3DHMI_autogen/timestamp: \
 	C:/msys64/ucrt64/include/qt6/QtCore/qtypes.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qutf8stringview.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qvariant.h \
+	C:/msys64/ucrt64/include/qt6/QtCore/qvariantanimation.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qvarlengtharray.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qversiontagging.h \
 	C:/msys64/ucrt64/include/qt6/QtCore/qxptype_traits.h \
@@ -780,6 +786,8 @@ Construction3DHMI_autogen/timestamp: \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/external/glm/glm/vector_relational.hpp \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/AxisRenderer.cpp \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/AxisRenderer.h \
+	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/CircularGauge.cpp \
+	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/CircularGauge.h \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/GridRenderer.cpp \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/GridRenderer.h \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/MainWindow.cpp \
@@ -794,5 +802,9 @@ Construction3DHMI_autogen/timestamp: \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/OpenGLWidget.h \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/OrbitCamera.cpp \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/OrbitCamera.h \
+	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleSimulator.cpp \
+	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleSimulator.h \
+	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleState.cpp \
+	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/VehicleState.h \
 	D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/src/main.cpp \
 	C:/Users/Admin/mingw64/bin/cmake.exe
