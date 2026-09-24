@@ -1,14 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/cmake_install.cmake",
-		"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/external/glfw/cmake_install.cmake",
-		"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/external/glfw/src/cmake_install.cmake",
-		"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/external/glm/cmake_install.cmake",
-		"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/external/glm/glm/cmake_install.cmake",
-		"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/external/assimp/cmake_install.cmake",
-		"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/external/assimp/contrib/zlib/cmake_install.cmake",
-		"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/external/assimp/code/cmake_install.cmake"
+		"D:/WorkOS-main/WorkOS-main/02_Projects/Self_Care_Freestyle/Construction3DHMI/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

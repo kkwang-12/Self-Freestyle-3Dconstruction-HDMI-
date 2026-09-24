@@ -1,41 +1,60 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(Construction3DHMI)
+project(Construction3DHMI LANGUAGES C CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-set(ASSIMP_BUILD_TESTS OFF CACHE BOOL "" FORCE)
-set(ASSIMP_BUILD_ASSIMP_TOOLS OFF CACHE BOOL "" FORCE)
-# GLFW glfw库文件有自己独立的cmake，交给他自己去找就行
-add_subdirectory(external/glfw)
-add_subdirectory(external/glm)
-add_subdirectory(external/assimp)
+set(CMAKE_AUTOMOC ON)
 
+find_package(Qt6 REQUIRED COMPONENTS
+    Widgets
+    OpenGL
+    OpenGLWidgets
+)
 
-# 我们自己的程序 + GLAD
+find_package(assimp REQUIRED)
+
 add_executable(Construction3DHMI
+
     src/main.cpp
-    external/glad/src/gl.c
-    src/Material.cpp
+
+    src/MainWindow.cpp
+    src/MainWindow.h
+
+    src/OpenGLWidget.cpp
+    src/OpenGLWidget.h
+
     src/Mesh.cpp
+    src/Mesh.h
+
     src/Model.cpp
+    src/Model.h
+
+    src/Material.cpp
+    src/Material.h
+
     src/OrbitCamera.cpp
+    src/OrbitCamera.h
+
     src/GridRenderer.cpp
+    src/GridRenderer.h
+
     src/AxisRenderer.cpp
+    src/AxisRenderer.h
+
     external/glad/src/gl.c
 )
 
-# GLAD 头文件位置
-target_include_directories(Construction3DHMI
-    PRIVATE
-    external/glad/include
-    external/glfw/include
+target_include_directories(Construction3DHMI PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/src
+    ${CMAKE_CURRENT_SOURCE_DIR}/external/glad/include
+    ${CMAKE_CURRENT_SOURCE_DIR}/external/glm
 )
 
-# 链接 GLFW
-target_link_libraries(Construction3DHMI
-    PRIVATE glfw
-    glm::glm
-    assimp
+target_link_libraries(Construction3DHMI PRIVATE
+    Qt6::Widgets
+    Qt6::OpenGL
+    Qt6::OpenGLWidgets
+    assimp::assimp
 )
